@@ -1,0 +1,27 @@
+/*HANDLER FOR BODY IMAGE*/
+#bg { position: relative;
+    background-image: url("http://ultimatetrustloans.com/projects/chatbot/bgimg.png");
+}
+.bgwidth { width: 100%; }
+.bgheight { height: 100%; }
+
+/*LANDING PAGE*/
+
+.l{
+    font-family: 'Dosis', sans-serif;
+    border: 2px solid crimson;
+    color: white;
+    margin-top: 70px;
+    width: 300px;
+    height: 400px;
+
+}
+#log{
+    color: white;
+    background: transparent;
+    border: 1px solid crimson;
+}
+#log:hover {
+    color: white;
+    background: crimson;
+}
