@@ -45,9 +45,3 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
-
-#other files
-.mwb 
-.bak  
-chat_bot_env/
-.idea/
